@@ -1,0 +1,18 @@
+DigestiCalme — FINAL BEFORE ADS
+Generated: 2026-09-09
+
+Included in this build:
+- Final optimized landing page copy and responsive image assets.
+- Checkout links for 1, 3 and 6 bottle offers.
+- Trust-focused announcement bar: "Achat unique · Aucun abonnement · Paiement sécurisé".
+- Shopify policy links: Terms, Shipping, Returns, Privacy, Contact/Mentions legales.
+- A compact French cookie-consent interface with Accept, Reject and Customize controls.
+- A footer control allowing visitors to reopen cookie preferences.
+
+IMPORTANT META TRACKING NOTE
+No Meta Pixel ID is hardcoded in this build because no Pixel ID was supplied.
+The consent layer emits a browser event named: digesti:consent
+Event detail example: { necessary: true, marketing: true/false, updatedAt: ... }
+Any Meta Pixel / advertising tracker added later should load only when marketing === true.
+
+This build can be deployed as-is, but for Meta campaign attribution and optimization, install the real Meta Pixel behind the consent gate before launching paid traffic.
