@@ -1,27 +1,24 @@
-DigestiCalme FINAL ADS CLEAN - Validation
-Date: 2026-09-09
+DigestiCalme FINAL PRE-ADS RISK/URGENCY/HEADLINE VALIDATION
+Generated: 2026-09-09
 
-STATUS: READY FOR DEPLOYMENT BEFORE META ADS, WITH SHOPIFY-ONLY META TRACKING.
+PASS - Headline optimized
+PASS - Pain callout present
+PASS - 60-day guarantee present
+PASS - Launch deadline present
+PASS - No Meta pixel
+PASS - No cookie banner
+PASS - Only external links are Shopify checkout
+PASS - All anchors resolve
+PASS - All asset refs exist
+PASS - Inline JS syntax valid
+PASS - No merchant placeholders
 
-Landing page changes:
-- Cookie/privacy banner removed from get.digesticalme.com.
-- Cookie consent JavaScript removed.
-- No Meta Pixel added to the landing page.
-- No Google Ads/gtag advertising tag added to the landing page.
-- Shopify policy links removed from the landing page footer.
-- External educational source links converted to non-clickable source names.
-- Seller email remains visible as plain text, not a mailto link.
-- The only cross-page clickable links left on the landing page are the three Shopify cart/checkout links.
-- Internal navigation anchors remain in-page only.
-- Seller identity and supplement/legal notices remain visible on the landing page.
-
-Checkout URLs retained:
-1 bottle: https://digesticalme.com/cart/48303171272841:1
-3 bottles: https://digesticalme.com/cart/48303172354185:1
-6 bottles: https://digesticalme.com/cart/48303172976777:1
-
-Tracking architecture intended:
-Meta ad -> get.digesticalme.com (no Meta advertising tracker) -> Shopify cart/checkout -> Shopify Meta integration / consent handling / Purchase tracking.
-
-Important operational note:
-Keep Shopify's EEA/France customer privacy settings enabled on digesticalme.com if Meta or other non-essential tracking is active there.
+External links: 5
+  https://digesticalme.com/cart/48303172354185:1
+  https://digesticalme.com/cart/48303171272841:1
+  https://digesticalme.com/cart/48303172354185:1
+  https://digesticalme.com/cart/48303172976777:1
+  https://digesticalme.com/cart/48303172354185:1
+Broken anchors: []
+Missing assets: []
+JS error: none

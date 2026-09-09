@@ -1,10 +1,14 @@
-DigestiCalme FINAL ADS CLEAN
+FINAL PRE-ADS VERSION
 
-Conversion-focused landing page configuration:
-- No Meta Pixel on get.digesticalme.com.
-- No landing-page cookie banner.
-- No outbound policy links on the landing page.
-- No clickable external educational links.
-- Only Shopify checkout/cart links can take a visitor off the landing page.
-- Policies remain available within the Shopify store/checkout environment.
-- Meta tracking should be configured on Shopify, with Shopify's EEA/France consent handling enabled.
+Changes in this build:
+- Optimized hero pain callout/headline while preserving the probiotic -> meal mechanism.
+- Added genuine launch-price urgency through 30 September 2026, 23:59 Paris time.
+- Added 60-day Discovery Guarantee: up to EUR 89 refunded on the first order, once per customer/household, no physical return required; shipping/import fees excluded.
+- No testimonials were fabricated or added.
+- No Meta Pixel or advertising trackers on the landing page.
+- No cookie banner on the landing page.
+- Only external outbound links are Shopify cart checkout links.
+
+IMPORTANT BEFORE ADS:
+Update the Shopify Return & Refund Policy so it matches the new 60-day commercial guarantee.
+If launch-price urgency is used, the current prices must genuinely end on 30 September 2026 and be revised on 1 October 2026.
