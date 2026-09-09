@@ -1,0 +1,28 @@
+FINAL DEPLOYMENT — DigestiCalme
+
+Architecture
+============
+Landing page: https://get.digesticalme.com
+Shopify storefront + cart + checkout + policies: https://digesticalme.com
+
+GitHub / Cloudflare Pages
+========================
+1. Extract this ZIP locally.
+2. Upload the CONTENTS of the extracted folder to the ROOT of the GitHub repository.
+   The repository root must contain index.html, assets/, _headers, robots.txt and sitemap.xml.
+   Do not upload only the ZIP file.
+3. In Cloudflare Pages, deploy that repository/project.
+4. In Workers & Pages > your project > Custom domains, add: get.digesticalme.com
+5. Do not attach digesticalme.com to this Pages project. Keep the root domain on Shopify.
+
+Shopify
+=======
+1. Keep/connect digesticalme.com as the Shopify domain.
+2. Disable the Shopify storefront password before launch.
+3. Confirm the three products are active and priced at EUR 89 / 169 / 289.
+4. Confirm France shipping rates: EUR 9.90 / 4.90 / free for the 1 / 3 / 6 bottle products.
+5. Test the checkout links in CHECKOUT_LINKS.txt in a private/incognito window.
+
+Final live flow
+===============
+Meta ad -> https://get.digesticalme.com -> https://digesticalme.com/cart/[variant]:1 -> Shopify checkout

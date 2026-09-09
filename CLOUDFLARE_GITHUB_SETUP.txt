@@ -1,0 +1,13 @@
+DIGESTICALME DOMAIN SETUP
+
+Cloudflare Pages custom domain:
+  get.digesticalme.com
+
+Shopify domain:
+  digesticalme.com
+
+The root Shopify domain owns /cart, /checkout and /policies.
+The get subdomain serves only the paid-traffic landing page.
+
+In Cloudflare Pages add get.digesticalme.com through the project's Custom domains screen.
+Do not point digesticalme.com at the Pages project.

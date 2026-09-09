@@ -1,0 +1,516 @@
+{
+  "assets": [
+    {
+      "index": 1,
+      "stem": "hero-product",
+      "original_dimensions": [
+        1649,
+        2048
+      ],
+      "original_bytes": 350046,
+      "variants": [
+        {
+          "width": 480,
+          "height": 596,
+          "file": "hero-product-480.webp",
+          "bytes": 25200
+        },
+        {
+          "width": 768,
+          "height": 954,
+          "file": "hero-product-768.webp",
+          "bytes": 46844
+        },
+        {
+          "width": 1200,
+          "height": 1490,
+          "file": "hero-product-1200.webp",
+          "bytes": 81360
+        },
+        {
+          "width": 1649,
+          "height": 2048,
+          "file": "hero-product-1649.webp",
+          "bytes": 125748
+        }
+      ],
+      "alt": "Flacon DigestiCalme avec un verre d’eau, sous le message « Le repas, un autre point de départ. »"
+    },
+    {
+      "index": 2,
+      "stem": "approach-diagram",
+      "original_dimensions": [
+        1649,
+        2048
+      ],
+      "original_bytes": 391509,
+      "variants": [
+        {
+          "width": 480,
+          "height": 596,
+          "file": "approach-diagram-480.webp",
+          "bytes": 26324
+        },
+        {
+          "width": 768,
+          "height": 954,
+          "file": "approach-diagram-768.webp",
+          "bytes": 44638
+        },
+        {
+          "width": 1200,
+          "height": 1490,
+          "file": "approach-diagram-1200.webp",
+          "bytes": 75926
+        },
+        {
+          "width": 1649,
+          "height": 2048,
+          "file": "approach-diagram-1649.webp",
+          "bytes": 110994
+        }
+      ],
+      "alt": "Infographie DigestiCalme : le repas, la décomposition du repas, puis le microbiote, sous le message « Le confort digestif commence avant le microbiote. »"
+    },
+    {
+      "index": 3,
+      "stem": "healthy-meal",
+      "original_dimensions": [
+        1649,
+        2048
+      ],
+      "original_bytes": 657475,
+      "variants": [
+        {
+          "width": 480,
+          "height": 596,
+          "file": "healthy-meal-480.webp",
+          "bytes": 50282
+        },
+        {
+          "width": 768,
+          "height": 954,
+          "file": "healthy-meal-768.webp",
+          "bytes": 97218
+        },
+        {
+          "width": 1200,
+          "height": 1490,
+          "file": "healthy-meal-1200.webp",
+          "bytes": 192866
+        },
+        {
+          "width": 1649,
+          "height": 2048,
+          "file": "healthy-meal-1649.webp",
+          "bytes": 328798
+        }
+      ],
+      "alt": "Femme devant un repas équilibré, illustrant le paradoxe d’un ventre tendu malgré une alimentation saine."
+    },
+    {
+      "index": 4,
+      "stem": "after-probiotics",
+      "original_dimensions": [
+        1649,
+        2048
+      ],
+      "original_bytes": 422969,
+      "variants": [
+        {
+          "width": 480,
+          "height": 596,
+          "file": "after-probiotics-480.webp",
+          "bytes": 33046
+        },
+        {
+          "width": 768,
+          "height": 954,
+          "file": "after-probiotics-768.webp",
+          "bytes": 57924
+        },
+        {
+          "width": 1200,
+          "height": 1490,
+          "file": "after-probiotics-1200.webp",
+          "bytes": 103586
+        },
+        {
+          "width": 1649,
+          "height": 2048,
+          "file": "after-probiotics-1649.webp",
+          "bytes": 162004
+        }
+      ],
+      "alt": "Femme ayant déjà essayé des probiotiques, invitée à considérer un autre point de départ digestif."
+    },
+    {
+      "index": 5,
+      "stem": "travel-routine",
+      "original_dimensions": [
+        1649,
+        2048
+      ],
+      "original_bytes": 567521,
+      "variants": [
+        {
+          "width": 480,
+          "height": 596,
+          "file": "travel-routine-480.webp",
+          "bytes": 40100
+        },
+        {
+          "width": 768,
+          "height": 954,
+          "file": "travel-routine-768.webp",
+          "bytes": 75816
+        },
+        {
+          "width": 1200,
+          "height": 1490,
+          "file": "travel-routine-1200.webp",
+          "bytes": 151482
+        },
+        {
+          "width": 1649,
+          "height": 2048,
+          "file": "travel-routine-1649.webp",
+          "bytes": 267688
+        }
+      ],
+      "alt": "Valise de week-end contenant quelques solutions digestives de secours, illustrant la charge mentale liée au voyage."
+    },
+    {
+      "index": 6,
+      "stem": "bundle-comparison",
+      "original_dimensions": [
+        1648,
+        2048
+      ],
+      "original_bytes": 300853,
+      "variants": [
+        {
+          "width": 480,
+          "height": 597,
+          "file": "bundle-comparison-480.webp",
+          "bytes": 22162
+        },
+        {
+          "width": 768,
+          "height": 954,
+          "file": "bundle-comparison-768.webp",
+          "bytes": 42554
+        },
+        {
+          "width": 1200,
+          "height": 1491,
+          "file": "bundle-comparison-1200.webp",
+          "bytes": 73710
+        },
+        {
+          "width": 1648,
+          "height": 2048,
+          "file": "bundle-comparison-1648.webp",
+          "bytes": 109344
+        }
+      ],
+      "alt": "Les formats DigestiCalme : 1 flacon à 89 € + 9,90 € de livraison, 3 flacons recommandés à 169 € + 4,90 € de livraison, et 6 flacons à 289 € avec livraison offerte."
+    },
+    {
+      "index": 7,
+      "stem": "morning-afternoon-comfort",
+      "original_dimensions": [
+        1649,
+        2048
+      ],
+      "original_bytes": 397643,
+      "variants": [
+        {
+          "width": 480,
+          "height": 596,
+          "file": "morning-afternoon-comfort-480.webp",
+          "bytes": 31108
+        },
+        {
+          "width": 768,
+          "height": 954,
+          "file": "morning-afternoon-comfort-768.webp",
+          "bytes": 55872
+        },
+        {
+          "width": 1200,
+          "height": 1490,
+          "file": "morning-afternoon-comfort-1200.webp",
+          "bytes": 97418
+        },
+        {
+          "width": 1649,
+          "height": 2048,
+          "file": "morning-afternoon-comfort-1649.webp",
+          "bytes": 151030
+        }
+      ],
+      "alt": "Même tenue le matin et à 16 h, illustrant l’inconfort progressif de la taille du pantalon."
+    },
+    {
+      "index": 8,
+      "stem": "mechanism-diagram",
+      "original_dimensions": [
+        1649,
+        2048
+      ],
+      "original_bytes": 324208,
+      "variants": [
+        {
+          "width": 480,
+          "height": 596,
+          "file": "mechanism-diagram-480.webp",
+          "bytes": 25304
+        },
+        {
+          "width": 768,
+          "height": 954,
+          "file": "mechanism-diagram-768.webp",
+          "bytes": 45944
+        },
+        {
+          "width": 1200,
+          "height": 1490,
+          "file": "mechanism-diagram-1200.webp",
+          "bytes": 78860
+        },
+        {
+          "width": 1649,
+          "height": 2048,
+          "file": "mechanism-diagram-1649.webp",
+          "bytes": 116594
+        }
+      ],
+      "alt": "Schéma DigestiCalme : repas, décomposition, puis étapes en aval, avec le message « Digérer d’abord. Soutenir ensuite. »"
+    },
+    {
+      "index": 9,
+      "stem": "enzyme-families",
+      "original_dimensions": [
+        1649,
+        2048
+      ],
+      "original_bytes": 385041,
+      "variants": [
+        {
+          "width": 480,
+          "height": 596,
+          "file": "enzyme-families-480.webp",
+          "bytes": 34504
+        },
+        {
+          "width": 768,
+          "height": 954,
+          "file": "enzyme-families-768.webp",
+          "bytes": 64326
+        },
+        {
+          "width": 1200,
+          "height": 1490,
+          "file": "enzyme-families-1200.webp",
+          "bytes": 109224
+        },
+        {
+          "width": 1649,
+          "height": 2048,
+          "file": "enzyme-families-1649.webp",
+          "bytes": 156800
+        }
+      ],
+      "alt": "Visuel DigestiCalme présentant quatre familles d’enzymes : protéase, lipase, lactase et alpha-galactosidase, avec leurs composants alimentaires associés."
+    },
+    {
+      "index": 10,
+      "stem": "how-to-use",
+      "original_dimensions": [
+        1649,
+        2048
+      ],
+      "original_bytes": 532606,
+      "variants": [
+        {
+          "width": 480,
+          "height": 596,
+          "file": "how-to-use-480.webp",
+          "bytes": 41976
+        },
+        {
+          "width": 768,
+          "height": 954,
+          "file": "how-to-use-768.webp",
+          "bytes": 82854
+        },
+        {
+          "width": 1200,
+          "height": 1490,
+          "file": "how-to-use-1200.webp",
+          "bytes": 164854
+        },
+        {
+          "width": 1649,
+          "height": 2048,
+          "file": "how-to-use-1649.webp",
+          "bytes": 262822
+        }
+      ],
+      "alt": "Routine DigestiCalme avec une gélule, de l’eau et un repas, deux prises simples par jour."
+    },
+    {
+      "index": 11,
+      "stem": "lifestyle-street",
+      "original_dimensions": [
+        1649,
+        2048
+      ],
+      "original_bytes": 696170,
+      "variants": [
+        {
+          "width": 480,
+          "height": 596,
+          "file": "lifestyle-street-480.webp",
+          "bytes": 57980
+        },
+        {
+          "width": 768,
+          "height": 954,
+          "file": "lifestyle-street-768.webp",
+          "bytes": 106804
+        },
+        {
+          "width": 1200,
+          "height": 1490,
+          "file": "lifestyle-street-1200.webp",
+          "bytes": 197556
+        },
+        {
+          "width": 1649,
+          "height": 2048,
+          "file": "lifestyle-street-1649.webp",
+          "bytes": 328414
+        }
+      ],
+      "alt": "Femme marchant dans une rue parisienne, évoquant une journée vécue avec plus de liberté et moins d’attention portée au ventre."
+    },
+    {
+      "index": 12,
+      "stem": "restaurant",
+      "original_dimensions": [
+        1649,
+        2048
+      ],
+      "original_bytes": 479391,
+      "variants": [
+        {
+          "width": 480,
+          "height": 596,
+          "file": "restaurant-480.webp",
+          "bytes": 35446
+        },
+        {
+          "width": 768,
+          "height": 954,
+          "file": "restaurant-768.webp",
+          "bytes": 62516
+        },
+        {
+          "width": 1200,
+          "height": 1490,
+          "file": "restaurant-1200.webp",
+          "bytes": 107912
+        },
+        {
+          "width": 1649,
+          "height": 2048,
+          "file": "restaurant-1649.webp",
+          "bytes": 176976
+        }
+      ],
+      "alt": "Femme au restaurant, détendue dans la conversation, sous le message « Une journée où votre ventre ne décide pas du programme. »"
+    },
+    {
+      "index": 13,
+      "stem": "work-meeting",
+      "original_dimensions": [
+        1649,
+        2048
+      ],
+      "original_bytes": 424713,
+      "variants": [
+        {
+          "width": 480,
+          "height": 596,
+          "file": "work-meeting-480.webp",
+          "bytes": 33028
+        },
+        {
+          "width": 768,
+          "height": 954,
+          "file": "work-meeting-768.webp",
+          "bytes": 60522
+        },
+        {
+          "width": 1200,
+          "height": 1490,
+          "file": "work-meeting-1200.webp",
+          "bytes": 104608
+        },
+        {
+          "width": 1649,
+          "height": 2048,
+          "file": "work-meeting-1649.webp",
+          "bytes": 157638
+        }
+      ],
+      "alt": "Réunion professionnelle, illustrant le souhait que le ventre ne prenne pas une place mentale dans chaque réunion."
+    },
+    {
+      "index": 14,
+      "stem": "three-bottle-offer",
+      "original_dimensions": [
+        1649,
+        2048
+      ],
+      "original_bytes": 378834,
+      "variants": [
+        {
+          "width": 480,
+          "height": 596,
+          "file": "three-bottle-offer-480.webp",
+          "bytes": 31374
+        },
+        {
+          "width": 768,
+          "height": 954,
+          "file": "three-bottle-offer-768.webp",
+          "bytes": 58462
+        },
+        {
+          "width": 1200,
+          "height": 1490,
+          "file": "three-bottle-offer-1200.webp",
+          "bytes": 103546
+        },
+        {
+          "width": 1649,
+          "height": 2048,
+          "file": "three-bottle-offer-1649.webp",
+          "bytes": 150112
+        }
+      ],
+      "alt": "Trois flacons DigestiCalme, environ 90 jours, 169 €, achat unique, aucun renouvellement automatique et livraison suivie à 4,90 €."
+    }
+  ],
+  "_final_build": {
+    "status": "production-ready",
+    "support_email": "contact@digesticalme.com",
+    "hero_eager": true,
+    "below_fold_lazy": 13,
+    "landing_domain": "get.digesticalme.com",
+    "shopify_domain": "digesticalme.com"
+  }
+}

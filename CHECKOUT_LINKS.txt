@@ -1,0 +1,11 @@
+DigestiCalme Shopify checkout/cart permalinks
+
+1 flacon: https://digesticalme.com/cart/48303171272841:1
+3 flacons: https://digesticalme.com/cart/48303172354185:1
+6 flacons: https://digesticalme.com/cart/48303172976777:1
+
+Architecture:
+- Landing page: https://get.digesticalme.com (Cloudflare Pages)
+- Shopify storefront / cart / checkout / policies: https://digesticalme.com
+
+Important: digesticalme.com must remain connected to Shopify and the Shopify storefront password must be disabled before paid traffic.
