@@ -1,0 +1,2 @@
+Non-checkout outbound anchors removed/neutralized:
+(none beyond targeted removals)
